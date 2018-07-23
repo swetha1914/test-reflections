@@ -8,3 +8,5 @@ clones are for downloading the code in ur local computer
 branches are for having different versions of the project with the same author or the same computer
 What is the benefit of having a copy of the last known state of the remote stored locally?
 aah..
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+without using github , maybe using google drive.this wud be easier to read and share , and wud offer a greater scurity in comparison to public repositories , but it wud be difficult to update and modify my project.
