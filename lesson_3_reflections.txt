@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 forks are for changing code in ur repository without changing the code in authors repository
 clones are for downloading the code in ur local computer
 branches are for having different versions of the project with the same author or the same computer
+What is the benefit of having a copy of the last known state of the remote stored locally?
+aah..
