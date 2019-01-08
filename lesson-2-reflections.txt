@@ -21,4 +21,3 @@ merging two branches enables to include features
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 doimg merges manually is time consuming and not effective .
-wow this is cool
