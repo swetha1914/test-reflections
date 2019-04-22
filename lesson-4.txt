@@ -1,0 +1,14 @@
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+branches would help to have different versions of my project.
+How do the diagrams help you visualize the branch structure?
+it helps to  find out more about branches
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+merging two branches enables to include features
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+doimg merges manually is time consuming and not effective .
+wow this is cool
